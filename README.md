@@ -4,7 +4,6 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Framework: Pytest](https://img.shields.io/badge/tested%20with-pytest-blueviolet)](https://docs.pytest.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
@@ -45,6 +44,10 @@ flowchart TD
     style C fill:#fff3e0,stroke:#f57c00,stroke-width:1px
     style D fill:#e8f5e9,stroke:#388e3c,stroke-width:1px
 ```
+### 📊 Executive Quality & Compliance Dashboard Preview
+
+![Executive Quality Dashboard Preview](dashboard_preview.png)
+
 
 ## 🚀 Quick Start Guide
 
