@@ -53,6 +53,5 @@ flowchart TD
 * **Git**
 
 ### 1. Clone the Repository
-```bash
-git clone [https://github.com/Laura-Torres-portfolio/project-1.git](https://github.com/Laura-Torres-portfolio/project-1.git)
-cd project-1
+git clone https://github.com/Laura-Torres-portfolio/iso-quality-automation-engine.git
+cd iso-quality-automation-engine
